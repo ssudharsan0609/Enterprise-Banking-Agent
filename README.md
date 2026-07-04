@@ -129,7 +129,7 @@ streamlit run app.py
 - Analytics
 ![Analytics](screenshots/analytics.png)
 
-(Add screenshots after deployment.)
+
 
 ---
 
