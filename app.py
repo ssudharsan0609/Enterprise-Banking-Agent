@@ -1,6 +1,9 @@
 import streamlit as st
 import sqlite3
 import pandas as pd
+from database.db import create_database
+
+create_database()
 
 st.set_page_config(
     page_title="Enterprise Banking Loan Agent",
